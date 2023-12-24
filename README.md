@@ -1,2 +1,2 @@
 # CurrencyConverter
-Currency Converter by Vanilla JS
+Currency Converter using Vanilla JS
